@@ -1,0 +1,10 @@
+server:
+  port: 8088
+
+spring.mvc.servlet.loadOnStartup: 1
+
+cxf:
+  path: '/api'
+  jaxrs:
+    component-scan: true
+    classes-scan-packages: com.goeuro
