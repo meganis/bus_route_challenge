@@ -2,7 +2,7 @@
 
 ### Problem
 
-See [Bus Route Challenge]{https://github.com/goeuro/challenges/tree/master/bus_route_challenge}
+See [Bus Route Challenge](https://github.com/goeuro/challenges/tree/master/bus_route_challenge)
 
 ### Solution
 
